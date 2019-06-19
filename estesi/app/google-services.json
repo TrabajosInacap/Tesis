@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "860664669961",
+    "firebase_url": "https://sisi-a5db0.firebaseio.com",
+    "project_id": "sisi-a5db0",
+    "storage_bucket": "sisi-a5db0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860664669961:android:df36e7dcec289f2d",
+        "android_client_info": {
+          "package_name": "com.example.estesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860664669961-9gk41vp8vimhan5vci34v3tdq4pdlpnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.estesi",
+            "certificate_hash": "7d2f71abc9de0144f3dbe4929e4cdfb3d9707130"
+          }
+        },
+        {
+          "client_id": "860664669961-g3oj5fboq6gte1hj4adgrriob5b0i0rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6gIJuTk5gSBeoTWbjNQiOG7RcEYmmV3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860664669961-g3oj5fboq6gte1hj4adgrriob5b0i0rg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
